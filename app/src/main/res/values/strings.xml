@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Katy</string>
+    <string name="title_section1">UPNP Renderers</string>
+    <string name="title_section2">UPNP Media Servers</string>
+    <string name="title_section3">Chromecasts</string>
+    <string name="title_section4">Set Network</string>
+    <string name="title_section5">Display Listview</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_section6">Start Device</string>
+    <string name="action_main">MainAB</string>
+    <string name="action_navi">NaviAB</string>
+    <string name="action_settings">MySettings</string>
+    <string name="action_search">MySearch</string>
+    <string name="action_credits">MyCredits</string>
+    <string name="action_listview">Listview</string>
+    <string name="dialogfragment_title">Media1 WiFi</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="password">Password</string>
+
+    <string-array name="network_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">My Dialog Fragment</string>
+    <string name="title_activity_devices">Devices</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
